@@ -1,4 +1,4 @@
-# Hi, I'm Younis Baras
+# Hi, I'm Younes Baras
 
 I'm a programmer learning C++ and Object-Oriented Programming.
 
