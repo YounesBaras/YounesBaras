@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Younis Baras
 
-<!--
-**YounesBaras/YounesBaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer learning C++ and Object-Oriented Programming.
 
-Here are some ideas to get you started:
+Currently learning through ProgrammingAdvices.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+* **Bank Management System** — A simple bank management project.
+* **Hospital Management System** — A simple-to-intermediate hospital management project, currently in development.
+
+## Currently Learning
+
+* C++
+* Object-Oriented Programming
+* Software Development
+
+## Location
+
+Al Mukalla, Hadhramaut, Yemen
