@@ -7,7 +7,6 @@ Currently learning through ProgrammingAdvices.com.
 ## Projects
 
 * **Bank Management System** — A simple bank management project.
-* **Hospital Management System** — A simple-to-intermediate hospital management project, currently in development.
 
 ## Currently Learning
 
