@@ -1,19 +1,18 @@
-# Hi, I'm Younes Baras
+# Hi, I'm Younes 👋
 
-I'm a programmer learning C++ and Object-Oriented Programming.
+I'm a C++ programmer focused on learning Object-Oriented Programming and software development.
 
-Currently learning through ProgrammingAdvices.com.
+Currently learning and building projects with C++.
 
 ## Projects
 
-* **Bank Management System** — A simple bank management project.
+- Bank Management System
+- Currency Exchange System
 
 ## Currently Learning
 
-* C++
-* Object-Oriented Programming
-* Software Development
-
-## Location
-
-Al Mukalla, Hadhramaut, Yemen
+- C++
+- Object-Oriented Programming
+- Software Development
+- File Handling
+- Data Structures and Algorithms
