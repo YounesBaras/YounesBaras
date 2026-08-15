@@ -14,5 +14,4 @@ Currently learning and building projects with C++.
 - C++
 - Object-Oriented Programming
 - Software Development
-- File Handling
 - Data Structures and Algorithms
